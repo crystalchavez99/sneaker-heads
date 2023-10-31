@@ -48,18 +48,22 @@ h1{
     /* justify-content: center; */
     text-align: center;
     text-decoration: underline;
+    border-radius: 0.5rem;
 }
 
 #row1-section2{
     background-color:#74c9f1 ;
+    border-radius: 0.5rem;
 }
 
 #row2-section2{
     background-color: #fb4040;
+    border-radius: 0.5rem;
 }
 
 p{
     color: white;
+    font-family: Copperplate, fantasy;
 }
 
 a{
